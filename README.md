@@ -5,7 +5,7 @@
 **The AI agent & no-code platform that builds business apps from a conversation · .NET 10 + Vue 3 · Self-hosted**
 
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](LICENSE)
-[![Release](https://img.shields.io/github/v/release/wolfweb/magicube-agent-zero-coding-platform?label=release&color=green)](https://github.com/wolfweb/magicube-agent-zero-coding-platform/releases/latest)
+[![Release](https://img.shields.io/github/v/release/wolfweb/magicube-no-code-ai-agent?label=release&color=green)](https://github.com/wolfweb/magicube-no-code-ai-agent/releases/latest)
 [![.NET](https://img.shields.io/badge/.NET-10-512BD4.svg)](https://dotnet.microsoft.com)
 
 ![Magicube no-code AI agent platform home screen](docs/screenshots/en-readme-hero.png)
@@ -18,7 +18,7 @@
 
 ## Download
 
-Grab the package for your OS, unzip and run: 👉 **[Latest Releases](https://github.com/wolfweb/magicube-agent-zero-coding-platform/releases/latest)**
+Grab the package for your OS, unzip and run: 👉 **[Latest Releases](https://github.com/wolfweb/magicube-no-code-ai-agent/releases/latest)**
 
 | OS | Package | Run |
 |----|---------|-----|
@@ -53,7 +53,7 @@ Magicube compresses "request → wait for dev schedule → ship" into a single c
 
 ## Contributing & Feedback
 
-- Bug reports & questions: [Issues](https://github.com/wolfweb/magicube-agent-zero-coding-platform/issues)
+- Bug reports & questions: [Issues](https://github.com/wolfweb/magicube-no-code-ai-agent/issues)
 
 ## License
 

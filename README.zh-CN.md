@@ -5,7 +5,7 @@
 **AI Agent 驱动的无代码开发平台——对话即建业务应用 · .NET 10 + Vue 3 · 私有化部署**
 
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](LICENSE)
-[![Release](https://img.shields.io/github/v/release/wolfweb/magicube-agent-zero-coding-platform?label=release&color=green)](https://github.com/wolfweb/magicube-agent-zero-coding-platform/releases/latest)
+[![Release](https://img.shields.io/github/v/release/wolfweb/magicube-no-code-ai-agent?label=release&color=green)](https://github.com/wolfweb/magicube-no-code-ai-agent/releases/latest)
 [![.NET](https://img.shields.io/badge/.NET-10-512BD4.svg)](https://dotnet.microsoft.com)
 
 ![Magicube 门户首屏](docs/screenshots/zh-readme-hero.png)
@@ -18,7 +18,7 @@
 
 ## 下载
 
-下载对应系统的安装包，解压后直接运行：👉 **[前往 Releases 下载](https://github.com/wolfweb/magicube-agent-zero-coding-platform/releases/latest)**
+下载对应系统的安装包，解压后直接运行：👉 **[前往 Releases 下载](https://github.com/wolfweb/magicube-no-code-ai-agent/releases/latest)**
 
 | 系统 | 安装包 | 运行方式 |
 |------|--------|----------|
@@ -53,7 +53,7 @@ Magicube 把「提需求 → 等排期 → 上线」压缩成一次对话。说�
 
 ## 反馈与贡献
 
-- Bug 反馈与提问：[Issues](https://github.com/wolfweb/magicube-agent-zero-coding-platform/issues)
+- Bug 反馈与提问：[Issues](https://github.com/wolfweb/magicube-no-code-ai-agent/issues)
 
 ## 许可证
 
